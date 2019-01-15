@@ -1,0 +1,8 @@
+applications:
+- name: gemfireserver
+  disk_quota: 1G
+  instances: 1
+  memory: 768M
+  routes:
+  - route: gemfireserver-brash-turtle.cfapps.io
+  stack: cflinuxfs2

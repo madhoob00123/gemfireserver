@@ -1,0 +1,35 @@
+
+[info 2019/01/15 11:18:57.801 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:26697)<ec><v0>:1025|0] members: [10.231.244.89(SpringBasedCacheServerApplication:26697)<ec><v0>:1025{lead}]
+
+[info 2019/01/15 11:19:15.620 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:26809)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:26809)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:19:56.039 CST <Cache Server Load Polling Thread> tid=0x33] server count: 1 connected client count: 1 client subscription queue count: 0
+  current servers : 10.231.244.89(SpringBasedCacheServerApplication:26809)<ec><v0>:1024 
+
+[info 2019/01/15 11:32:15.005 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:28274)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:28274)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:32:52.618 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:28495)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:28495)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:33:23.325 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:28679)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:28679)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:34:18.862 CST <Cache Server Load Polling Thread> tid=0x33] server count: 1 connected client count: 0 client subscription queue count: 0
+  current servers : 10.231.244.89(SpringBasedCacheServerApplication:28679)<ec><v0>:1024 
+
+[info 2019/01/15 11:44:17.862 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:29990)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:29990)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:44:53.667 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:30213)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:30213)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:45:49.210 CST <Cache Server Load Polling Thread> tid=0x33] server count: 1 connected client count: 0 client subscription queue count: 0
+  current servers : 10.231.244.89(SpringBasedCacheServerApplication:30213)<ec><v0>:1024 
+
+[info 2019/01/15 11:48:01.756 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:30744)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:30744)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 11:48:57.337 CST <Cache Server Load Polling Thread> tid=0x33] server count: 1 connected client count: 0 client subscription queue count: 0
+  current servers : 10.231.244.89(SpringBasedCacheServerApplication:30744)<ec><v0>:1024 
+
+[info 2019/01/15 15:11:39.518 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:15866)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:15866)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 15:36:59.591 CST <main> tid=0x1] Log opened with new distributed system connection.  View[10.231.244.89(SpringBasedCacheServerApplication:18595)<ec><v0>:1024|0] members: [10.231.244.89(SpringBasedCacheServerApplication:18595)<ec><v0>:1024{lead}]
+
+[info 2019/01/15 15:37:56.059 CST <Cache Server Load Polling Thread> tid=0x32] server count: 1 connected client count: 0 client subscription queue count: 0
+  current servers : 10.231.244.89(SpringBasedCacheServerApplication:18595)<ec><v0>:1024 
